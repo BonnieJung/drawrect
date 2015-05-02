@@ -1,2 +1,0 @@
-# drawrect
-algorithm practice
